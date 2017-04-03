@@ -8,3 +8,6 @@ WXMDL (WeChat Multi-Domain Login / 微信多域名登录)
 
 1、无需做任何设置，上传至微信设置的授权域名的根目录，如：wx.abc.com
 2、设置 Open Social 微信的回掉地址为：http://wx.abc.com/wxmdl.php
+
+
+https://www.xiaomac.com/2017042009.html
