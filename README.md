@@ -13,4 +13,5 @@ WXMDL (WeChat Multi-Domain Login / 微信多域名登录)
 3、则网站回调地址设置为：http://wx.abc.com/wxmdl.php?cburl=http://www.abc.com
 
 
+
 更多：https://www.xiaomac.com/2017042009.html
