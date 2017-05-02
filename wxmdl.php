@@ -3,7 +3,7 @@
  * Plugin Name: WXMDL (WeChat Multi-Domain Login)
  * Version: 1.0
  * Plugin URI: https://www.xiaomac.com/201311150.html
- * Description: 微信多域名登录：解决微信登录回掉地址只能设置一个域名的问题。1、本程序放置在微信授权域名根目录下；2、插件回调地址设置为本程序的地址。
+ * Description: 微信多域名登录：解决微信登录回调地址只能设置一个域名的问题。使用回调地址形如：http://wx.abc.com/wxmdl.php?cburl=http://www.abc.com
  * Author: Link (Afly)
  */
 
